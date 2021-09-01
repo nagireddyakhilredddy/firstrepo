@@ -1,6 +1,10 @@
-iam
+iam(alternative)
 the
+<<<<<<< HEAD
 one(main)
+=======
+one(alternative)
+>>>>>>> alternative
 who
 is (main)
 totally 
