@@ -1,5 +1,3 @@
 # firstrepo
-Web apps and develop
-Iam Akhil Reddy
-I myself and me
-Iam new to github
+my first repo 
+Akhil Reddy Nagireddy----Earth revolves around the sun
